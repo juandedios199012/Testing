@@ -1,0 +1,14 @@
+D:\Pruebas\TestFlexBusinessERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.dll
+D:\Pruebas\TestFlexBusinessERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+D:\Pruebas\TestFlexBusinessERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.dll
+D:\Pruebas\TestFlexBusinessERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.pdb
+D:\Pruebas\TestFlexBusinessERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.csprojResolveAssemblyReference.cache
+C:\Testing\ERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.dll
+C:\Testing\ERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+C:\Testing\ERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.dll
+C:\Testing\ERP\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.pdb
+D:\Testing\ERP-4.2\TestScript\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.dll
+D:\Testing\ERP-4.2\TestScript\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+D:\Testing\ERP-4.2\TestScript\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.csprojResolveAssemblyReference.cache
+D:\Testing\ERP-4.2\TestScript\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.dll
+D:\Testing\ERP-4.2\TestScript\FlexBusiness.Automation.Test\FlexBusiness.CodedUI.Test\obj\Debug\FlexBusiness.CodedUI.Test.pdb
