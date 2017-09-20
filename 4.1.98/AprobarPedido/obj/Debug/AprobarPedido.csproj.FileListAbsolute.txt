@@ -1,0 +1,15 @@
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.csprojResolveAssemblyReference.cache
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.pdb
+D:\Testing\ERP 4.2\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.dll
+D:\Testing\ERP 4.2\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.pdb
+D:\Testing\ERP 4.2\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.csprojResolveAssemblyReference.cache
+D:\Testing\ERP 4.2\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.dll
+D:\Testing\ERP 4.2\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.pdb
+C:\Testing\ERP\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.dll
+C:\Testing\ERP\4.1.98\AprobarPedido\bin\Debug\AprobarPedido.pdb
+C:\Testing\ERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.dll
+C:\Testing\ERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.pdb
+C:\Testing\ERP\4.1.98\AprobarPedido\obj\Debug\AprobarPedido.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusinessPruebas.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusinessPruebas.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusinessPruebas.dll
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusinessPruebas.pdb
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\bin\Debug\AnularOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.dll
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+C:\Testing\ERP\4.1.98\AnularOrdenCompra\obj\Debug\AnularOrdenCompra.csprojResolveAssemblyReference.cache

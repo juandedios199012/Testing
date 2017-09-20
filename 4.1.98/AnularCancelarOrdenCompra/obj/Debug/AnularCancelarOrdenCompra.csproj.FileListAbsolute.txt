@@ -1,0 +1,17 @@
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Testing\ERP 4.2\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\AnularCancelarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.dll
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+C:\Testing\ERP\4.1.98\AnularCancelarOrdenCompra\obj\Debug\AnularCancelarOrdenCompra.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\bin\Debug\OT4198.orderedtest
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\bin\Debug\LoadTest1.loadtest
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.pdb
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\bin\Debug\OT4198.orderedtest
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\bin\Debug\LoadTest1.loadtest
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.dll
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.pdb
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.csprojResolveAssemblyReference.cache
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.dll
+D:\Testing\ERP 4.2\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.pdb
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\bin\Debug\OT4198.orderedtest
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\bin\Debug\LoadTest1.loadtest
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.dll
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\bin\Debug\4198PruebasPorOrden.pdb
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.dll
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.pdb
+C:\Testing\ERP\4.1.98\4198PruebasPorOrden\obj\Debug\4198PruebasPorOrden.csprojResolveAssemblyReference.cache

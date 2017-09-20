@@ -1,0 +1,21 @@
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusinessPruebas.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusinessPruebas.pdb
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.dll
+D:\Pruebas\TestFlexBusinessERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.pdb
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusinessPruebas.dll
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusinessPruebas.pdb
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.csprojResolveAssemblyReference.cache
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.dll
+D:\Testing\ERP 4.2\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.dll
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\bin\Debug\AprobarOrdenCompra.pdb
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.dll
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\bin\Debug\FlexBusiness.CodedUI.Test.pdb
+C:\Testing\ERP\4.1.98\AprobarOrdenCompra\obj\Debug\AprobarOrdenCompra.csprojResolveAssemblyReference.cache
